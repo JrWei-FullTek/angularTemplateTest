@@ -1,0 +1,3 @@
+[submodule "angular-template-test/src/app/utility"]
+	path = angular-template-test/src/app/utility
+	url = https://github.com/manager-fulltek/FullTekAngularUtil.git
